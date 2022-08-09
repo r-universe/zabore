@@ -1,5 +1,9 @@
 [
   {
+    "package": "ppseq",
+    "oncran": true
+  },
+  {
     "package": "riskclustr",
     "oncran": true
   }
