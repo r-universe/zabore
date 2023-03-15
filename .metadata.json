@@ -1,10 +1,10 @@
 [
   {
-    "package": "ppseq",
+    "package": "riskclustr",
     "oncran": true
   },
   {
-    "package": "riskclustr",
+    "package": "ppseq",
     "oncran": true
   }
 ]
