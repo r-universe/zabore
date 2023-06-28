@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ppseq"]
 	path = ppseq
 	url = https://github.com/zabore/ppseq
-	shallow = true
-	registered = true
 [submodule "riskclustr"]
 	path = riskclustr
 	url = https://github.com/zabore/riskclustr
-	shallow = true
-	registered = true
